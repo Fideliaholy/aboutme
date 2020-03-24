@@ -1,0 +1,154 @@
+
+body{
+  color:#40514E;
+  margin: 0;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  color: #2a7886;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Marck Script', cursive;
+}
+h2{
+  color: #2a7886;
+  font-size: 2.5rem;
+  font-family: 'Kaushan Script', cursive;
+  padding-bottom: 10px;
+}
+h3{
+    color: #2a7886;
+  font-family: 'Kaushan Script', cursive;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #84a9ac 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: #f6e1e1;
+  position:relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: white;
+  padding: 100px;
+  margin-top: 50px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.intro{
+  margin:auto;
+}
+.contact-message{
+  width: 27%;
+  margin: 40px auto 25px;
+}
+.top-cloud{
+  position: absolute;
+  width: 15%;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  width: 15%;
+  left:300px;
+  bottom: 300px;
+}
+.mountain{
+  width: 40%;
+}
+.instagram{
+  width: 2%;
+  margin: auto 50px auto auto;
+}
+.facebook{
+  width: 2%;
+  margin: auto;
+}
+.email{
+  width: 2%;
+  margin: auto auto auto 50px;
+}
+.profile{
+  width:30%;
+  margin: auto;
+}
+.seo{
+  width: 20%;
+  margin-right: 30px;
+  float: left;
+}
+.screen{
+  width: 20%;
+  margin-left: 30px;
+  float:right;
+}
+.btn {
+	background:linear-gradient(to bottom, #73c1c7 5%, #408c99 100%);
+	background-color:#73c1c7;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:5px 24px;
+	text-decoration:none;
+	text-shadow:1px  #3d768a;
+
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #73c1c7 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
